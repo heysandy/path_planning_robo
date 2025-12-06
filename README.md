@@ -2,7 +2,7 @@
 
 ### To create the path use this:
 
-![Path Planning Demo Video](https://github.com/user-attachments/assets/03b675e4-1034-423e-b7c0-f5cc8f26421d)
+![Path Planning Demo Video](https://github.com/heysandy/path_planning_robo/blob/main/path_following_robo_demo_video.mp4)
 
 
 ## python path_planner_cli.py --map data/current.map --start 396 402 --goal 422 361 --algo bfs
