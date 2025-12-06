@@ -1,5 +1,13 @@
 # Project 3: Path Planning - Python (F23)
 
+### To create the path use this:
+
+![Path Planning Demo Video](https://github.com/user-attachments/assets/03b675e4-1034-423e-b7c0-f5cc8f26421d)
+
+
+## python path_planner_cli.py --map data/current.map --start 396 402 --goal 422 361 --algo bfs
+
+
 Template code for Project 3 (Path Planning) in Python.
 See [project instructions](https://hellorob.org/projects/p3) for more details.
 
